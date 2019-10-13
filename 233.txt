@@ -1,0 +1,185 @@
+charactors : 111
+words : 21
+lines : 3
+
+<who> : 1
+<who> : 1
+<thecharactors> : 1
+<thecharactors> : 1
+<succeeded> : 1
+
+< 's grown> : 1
+< (Zhao Dezhao> : 1
+< Defang, who> : 1
+< Dezhao and> : 1
+< Emperor Taizong> : 1
+< Taizong succeeded> : 1
+< Why Emperor> : 1
+< Zha o> : 1
+< and Zha> : 1
+< both died> : 1
+< died in> : 1
+< grown sons> : 1
+< hi 's> : 1
+< in thecharactors> : 1
+< o Defang,> : 1
+< sons (Zhao> : 1
+< succeeded hi> : 1
+< thecharactors :> : 1
+< who both> : 1
+charactors : 111
+words : 21
+lines : 3
+
+<who> : 1
+<who> : 1
+<thecharactors> : 1
+<thecharactors> : 1
+<succeeded> : 1
+
+< 's grown> : 1
+< (Zhao Dezhao> : 1
+< Defang, who> : 1
+< Dezhao and> : 1
+< Emperor Taizong> : 1
+< Taizong succeeded> : 1
+< Why Emperor> : 1
+< Zha o> : 1
+< and Zha> : 1
+< both died> : 1
+< died in> : 1
+< grown sons> : 1
+< hi 's> : 1
+< in thecharactors> : 1
+< o Defang,> : 1
+< sons (Zhao> : 1
+< succeeded hi> : 1
+< thecharactors :> : 1
+< who both> : 1
+charactors : 111
+words : 21
+lines : 3
+
+<who> : 1
+<who> : 1
+<thecharactors> : 1
+<thecharactors> : 1
+<succeeded> : 1
+
+< 's grown> : 1
+< (Zhao Dezhao> : 1
+< Defang, who> : 1
+< Dezhao and> : 1
+< Emperor Taizong> : 1
+< Taizong succeeded> : 1
+< Why Emperor> : 1
+< Zha o> : 1
+< and Zha> : 1
+< both died> : 1
+< died in> : 1
+< grown sons> : 1
+< hi 's> : 1
+< in thecharactors> : 1
+< o Defang,> : 1
+< sons (Zhao> : 1
+< succeeded hi> : 1
+< thecharactors :> : 1
+< who both> : 1
+charactors : 3
+words : 0
+lines : 1
+
+<Why> : 1
+<Why> : 1
+<> : 0
+<> : 0
+<> : 0
+<> : 0
+<> : 0
+<> : 0
+<> : 0
+<> : 0
+charactors : 8
+words : 0
+lines : 3
+
+<you> : 1
+<you> : 1
+<do> : 1
+<do> : 1
+<Why> : 1
+<Why> : 1
+<> : 0
+<> : 0
+<> : 0
+<> : 0
+charactors : 111
+words : 0
+lines : 3
+
+<who> : 1
+<who> : 1
+<thecharactors> : 1
+<thecharactors> : 1
+<succeeded> : 1
+<succeeded> : 1
+<sons> : 1
+<sons> : 1
+<o> : 1
+<o> : 1
+charactors : 111
+words : 21
+lines : 3
+
+<who> : 1
+<who> : 1
+<thecharactors> : 1
+<thecharactors> : 1
+<succeeded> : 1
+<succeeded> : 1
+<sons> : 1
+<sons> : 1
+<o> : 1
+<o> : 1
+charactors : 8
+words : 3
+lines : 3
+
+<you> : 1
+<you> : 1
+<do> : 1
+<do> : 1
+<Why> : 1
+<Why> : 1
+<> : 0
+<> : 0
+<> : 0
+<> : 0
+charactors : 8
+words : 3
+lines : 3
+
+<you> : 1
+<you> : 1
+<do> : 1
+<do> : 1
+<Why> : 1
+<Why> : 1
+<> : 0
+<> : 0
+<> : 0
+<> : 0
+charactors : 8
+words : 3
+lines : 3
+
+<you> : 1
+<you> : 1
+<do> : 1
+<do> : 1
+<Why> : 1
+<Why> : 1
+<> : 0
+<> : 0
+<> : 0
+<> : 0
